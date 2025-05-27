@@ -1,0 +1,18 @@
+[submodule "hdl/bbt-sitcp-core"]
+	path = hdl/bbt-sitcp-core
+	url = https://github.com/BeeBeansTechnologies/SiTCPXG_Netlist_for_Kintex7.git
+[submodule "hdl/utility"]
+	path = hdl/utility
+	url = https://github.com/AMANEQ-official/utility-src.git
+[submodule "hdl/common"]
+	path = hdl/common
+	url = https://github.com/AMANEQ-official/common-src.git
+[submodule "hdl/laccp"]
+	path = hdl/laccp
+	url = https://github.com/RyotaroHonda/LACCP.git
+[submodule "hdl/mikumari"]
+	path = hdl/mikumari
+	url = https://github.com/RyotaroHonda/mikumari.git
+[submodule "hdl/strtdc"]
+	path = hdl/strtdc
+	url = https://github.com/AMANEQ-official/strtdc-src.git
